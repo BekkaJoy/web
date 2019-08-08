@@ -1,0 +1,65 @@
+<style>
+body{}
+header {
+  padding: 8px;
+  font-family: fantasy;
+  color: lightgreen;
+  background-color: black;
+}
+footer {
+  padding: 1px;
+  font-family: fantasy;
+  color: lightgreen;
+  background-color: black;
+}
+main {
+  background-color: lightblue;
+  padding: 5px;
+  margin: 10px;
+  font-family: sans-serif;
+}
+section {
+  margin: 10px;
+  padding: 5px;
+  background-color: lightblue;
+}
+
+article {
+  margin: 5px;
+  padding: 0px;
+  background-color: lightblue;
+}
+
+nav {
+  background-color: lightblue;
+  display: inline;
+  margin: 10px;
+  padding: 0px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+  h1 {
+    text-align: center;
+  }
+  h3 {
+    text-align: center;
+  }
+  p.maintext {
+    text-align: justify;
+  }
+ nav.bottom {
+   text-align: center;
+    padding; 0px;
+    margin: 0px;
+  }
+  table, td, tr {
+    border: 2px solid blue;
+    padding: 5px;
+    width: 700px;
+    margin: auto;
+  }
+</style>
